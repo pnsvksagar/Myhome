@@ -22,7 +22,7 @@ This android app takes salary as input and provides comparative salary at a dest
 #### Error Sreenshots
 + The app displays error message when __RUN__ button is selected with below invalid inputs.   
 + Input salary is mandatory - touch on the __salary input__ area to view error message.
-  ![Salary Error](images/NoSalary.png)
+  ![Salary Error](https://github.gatech.edu/gt-omscs-se-2018summer/6300Summer18vkpns3/blob/master/Assignment4/images/InitialScreen.PNG)
   ![Zero Salary](images/ZeroSalary.png)
 + Select different cities - hence selecting same cities displays below error. Touch on the red error symbol on the __TO__ label to view error message. 
   ![Same Cities](images/SameCities.png) 
