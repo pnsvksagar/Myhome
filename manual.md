@@ -16,7 +16,7 @@ This android app takes salary as input and provides comparative salary at a dest
 #### App Usage Screenshots
 
 + Initial screen upon loading the app
-  ![Initial Screen](InitialScreen.png)
+  ![Initial Screen](https://github.com/pnsvksagar/Myhome/blob/master/InitialScreen.PNG)
 + Salary conversion for $100,000 between initial city Florida and destination city New York.
   ![Salary Conversion](images/SalaryConversion.png)
 #### Error Sreenshots
